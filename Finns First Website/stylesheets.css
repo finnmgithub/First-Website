@@ -1,0 +1,47 @@
+body {
+    background-color: gray;
+}
+
+img {
+    border-radius: 50%;
+    height: 25%;
+    width: 50%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+    background-color: yellow;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: auto;
+    height: auto;
+}
+
+#list {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+    margin-left: 35%;
+
+}
+
+#navlinks {
+    position: fixed;
+}
+
+#Footer {
+    background-color: yellow;
+    width: auto;
+    text-align: center;
+    border-style: solid;
+    border-color: yellow;
+    height: auto;
+}
